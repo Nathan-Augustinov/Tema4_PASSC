@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <nr_matricol>1</nr_matricol>
+        <nume>Nathan</nume>
+        <medie>8.9</medie>
+    </student>
+    <student>
+        <nr_matricol>2</nr_matricol>
+        <nume>Boji</nume>
+        <medie>8.3</medie>
+    </student>
+    <student>
+        <nr_matricol>3</nr_matricol>
+        <nume>Paul</nume>
+        <medie>7.5</medie>
+    </student>
+    <student>
+        <nr_matricol>4</nr_matricol>
+        <nume>Rares</nume>
+        <medie>7.2</medie>
+    </student>
+</class>
